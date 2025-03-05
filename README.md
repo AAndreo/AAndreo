@@ -1,6 +1,7 @@
 ## 👋 Hi there!
-
-![img_capa](img_github.png)
+<p align="center">
+<img src="img_github.png" alt="drawing" width="500"/>
+</p>
 
 🧑 Com uma sólida formação em Ciências da Computação pela Universidade Mogi das Cruzes e mais de 28 anos de experiência na área, desenvolvi uma especialização em sistemas de informação, modelagem de dados e otimização de banco de dados. Minha atuação é marcada por uma forte competência em análise e integração de dados, além de business intelligence, com foco em transformar dados brutos em informações estratégicas e insights acionáveis.
 
