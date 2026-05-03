@@ -20,7 +20,7 @@ Essa experiência me permitiu identificar tendências, realizar análises predit
 
 ⚙ Skills:
 
-Análise de Dados | Python | Matplotlib | SQL | Pandas | Jupyter Notebook | Numpy | Visualização de Dados | Análise 
+Análise de Dados | Machine Learning | Python | Matplotlib | SQL | Pandas | Jupyter Notebook | Numpy | Visualização de Dados | Análise 
 Exploratória de Dados | Banco de Dados | Power BI | Estatística | ETL | Modelagem de Dados
 
 🧐 Você pode me acompanhar:
