@@ -3,20 +3,9 @@
 <img src="img_github.png" alt="drawing" width="500"/>
 </p>
 
-🧑 Com uma sólida formação em Ciências da Computação pela Universidade Mogi das Cruzes e mais de 28 anos de experiência na área, desenvolvi uma especialização em sistemas de informação, modelagem de dados e otimização de banco de dados. Minha atuação é marcada por uma forte competência em análise e integração de dados, além de business intelligence, com foco em transformar dados brutos em informações estratégicas e insights acionáveis.
+🧑 Profissional de tecnologia com mais de 28 anos de experiência estruturando, processando, analisando e transformando dados em ambientes corporativos complexos. Possuo sólida experiência na transformação de dados em insights acionáveis, com histórico comprovado na otimização de processos, melhoria de desempenho e suporte à tomada de decisão baseada em dados.
 
-Ao longo da minha carreira, adquiri vasta experiência em setores como educação, metalurgia, consultoria, manufatura e bancário, aplicando ferramentas como Python e SQL para análise de grandes volumes de dados.
-Essa experiência me permitiu identificar tendências, realizar análises preditivas e fornecer bases concretas para a tomada de decisões estratégicas. A minha abordagem, centrada na resolução de problemas e na otimização de processos, resultou em ganhos expressivos de desempenho para diversas organizações.
-
-💻 Entre minhas principais habilidades estão:
-
-* Manipulação e análise de dados complexos utilizando ferramentas como Python, SQL e Power BI;
-* Desenvolvimento de visualizações avançadas de dados, criação de dashboards interativos e elaboração de relatórios detalhados;
-* Aplicação de modelagem estatística e machine learning para previsões de negócios e análises aprofundadas;
-* Identificação de KPIs e oportunidades de melhoria contínua;
-* Apoio à tomada de decisões estratégicas por meio da implementação de soluções que promovem a eficiência operacional e impulsionam o crescimento empresarial.
-
-🎯 Meu perfil é orientado a resultados e pautado por uma mentalidade analítica, sempre comprometido com a maximização do valor dos dados para o sucesso das organizações.
+🎯 Ao longo da minha trajetória, utilizei bancos de dados, SQL, modelagem, integração e análise de informações para resolver problemas de negócio em setores como educação, indústria, consultoria e mercado financeiro. Complementando essa experiência, aprofundei meus conhecimentos em Estatística, Python, Machine Learning e Power BI, consolidando minha atuação em Data Analytics, desenvolvendo soluções orientadas por dados e modelos analíticos para geração de valor ao negócio.
 
 ⚙ Skills:
 
